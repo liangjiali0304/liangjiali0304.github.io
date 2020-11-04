@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-** Jiali Liang's Homepage**
+**Jiali Liang's Homepage**
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
