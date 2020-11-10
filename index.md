@@ -16,7 +16,10 @@ I was involved in
 
 ## SAT Math Teacher   -- Shanghai, China
 * * *
+
+
 <img align="left" width="400" img src="/IMG_1433.JPG" >
+
 I was a SAT Math Teacher at New Oriental in Shanghai. New Oriental is one of the biggest and leading education organization in China. I oversaw over 100 students and offered them mock tests, leading to an average of 10% increase of their test scores. Teaching is fun and yet making friends with my students are even funner. 
 
 
@@ -25,17 +28,25 @@ I was a SAT Math Teacher at New Oriental in Shanghai. New Oriental is one of the
 
 
 ## Bike Shop Mechanics   -- College Park, MD
-
-
+* * *
+I Was
 
 <br/>
 <br/>
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+
+
+
 
 
 
