@@ -18,7 +18,7 @@ I was involved in
 * * *
 
 
-<img align="left" width="400" img src="/IMG_1433.JPG" >
+<img align="left" width="300" img src="/IMG_1433.JPG" >
 
 I was a SAT Math Teacher at New Oriental in Shanghai. New Oriental is one of the biggest and leading education organization in China. I oversaw over 100 students and offered them mock tests, leading to an average of 10% increase of their test scores. Teaching is fun and yet making friends with my students are even funner. 
 
