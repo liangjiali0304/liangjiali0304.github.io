@@ -2,33 +2,23 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# BIOGRAPHY
 
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Jiali Liang's Homepage
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a Post-Bacc student from University of Maryland(**A Terp** that's what we called!). I double majored in Astronomy and Physics and graduated from the University of Maryland in December 2020 with High Honor in Astronomy. My ultimate research goal is to utilize the combination of Robotics, Computer Vision, and Machine Learning to enhance human life quality. I am currently advised by Professor [Zhaoyang Wang](http://engineering.catholic.edu/research-and-faculty/faculty-profiles/mechanical/wang-zhaoyang/index.html) in the field of Computer Vision and Machine Learning. I am looking for opportunities to pursue computer science in a graduate degree.  
 
 [<img align="left" width="30" height="30" src="/linkedin_icon.png">](http://linkedin.com/in/jiali-liang)  
 <br/>
 <br/>
 
-## ASIAA Summer Student Program
+## ASIAA Summer Student Program   -- Taipei, Taiwan
 * * *
-I was a 
+I was involved in 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 <br/>
 <br/>
 
-## SAT Math Teacher
+## SAT Math Teacher   -- Shanghai, China
 * * *
 I was a SAT Math Teacher at New Oriental in Shanghai. New Oriental is one of the biggest and leading education organization in China. I oversaw over 100 students and offered them mock tests, leading to an average of 10% increase of their test scores. Teaching is fun and yet making friends with my students are even funner. 
 
@@ -75,6 +65,16 @@ end
 ### There's a horizontal rule below this.
 
 * * *
+
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+
 
 ### Here is an unordered list:
 
