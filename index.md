@@ -28,8 +28,7 @@ I was involved in
 <br/>
 <br/>
 
-## ASIAA Summer Student Program   -- Taipei, Taiwan
-* * *
+### ASIAA Summer Student Program   -- Taipei, Taiwan
 I was involved in 
 
 
