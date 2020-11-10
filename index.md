@@ -19,13 +19,15 @@ I was involved in
 
 
 <img align="Left" width="500" img src="/IMG_1433.JPG" >
-<p align="center">
+<p align="Right">
 I was a SAT Math Teacher at New Oriental in Shanghai. New Oriental is one of the biggest and leading education organization in China. I oversaw over 100 students and offered them mock tests, leading to an average of 10% increase of their test scores. Teaching is fun and yet making friends with my students are even funner. 
 
 
 <br/>
 <br/>
-<br/><br/><br/>
+<br/>
+<br/>
+<br/>
 
 ## Bike Shop Mechanics   -- College Park, MD
 * * *
