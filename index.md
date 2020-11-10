@@ -15,15 +15,18 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 [<img align="left" width="30" height="30" src="/linkedin_icon.png">](http://linkedin.com/in/jiali-liang)  
 <br/>
+<br/>
 
-
-## Header 2
-
-I am 
+## ASIAA Summer Student Program
+* * *
+I was a 
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+<br/>
+<br/>
 
 ## SAT Math Teacher
 * * *
