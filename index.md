@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-[<img align="left" width="50" height="50" src="/linkedin_icon.png">](http://linkedin.com/in/jiali-liang)
+[<img align="left" width="50" height="50" src="/linkedin_icon.png">](http://linkedin.com/in/jiali-liang)  
 
 
 
@@ -29,7 +29,7 @@ I am
 * * *
 I was a SAT Math Teacher at New Oriental in Shanghai. New Oriental is one of the biggest and leading education organization I oversaw over 100 students and offered them mock tests, leading to an average of 10% increase of their test scores. Teaching is fun and yet making friends with my students are even funner. 
 
-<img src="/IMG_1433.JPG" width="700">
+<img src="/IMG_1433.JPG" width="700">  
 
 ### Header 3
 
