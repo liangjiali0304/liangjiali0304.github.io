@@ -28,15 +28,13 @@ I was involved in
 <br/>
 <br/>
 
-## Bike Shop Mechanics  -- College Park, MD
+## ASIAA Summer Student Program   -- Taipei, Taiwan
 * * *
-I Was
+I was involved in 
+
 
 <br/>
 <br/>
-
-
-
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
