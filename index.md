@@ -26,7 +26,7 @@ I am
 ## SAT Math Teacher
 
 I was a SAT Math Teacher at New Oriental in Shanghai. New Oriental is one of the biggest and leading education organization I oversaw over 100 students and offered them mock tests, leading to an average of 10% increase of their test scores. Teaching is fun and yet making friends with my students are even funner. 
-<img src="/IMG_1433.JPG" width="700">(http://linkedin.com/in/jiali-liang)
+[[[<img src="/IMG_1433.JPG" width="700">]]](http://linkedin.com/in/jiali-liang)
 
 ### Header 3
 
