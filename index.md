@@ -22,6 +22,11 @@ I am
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+## Header 2
+
+I was a SAT Math Teacher at New Oriental in Shanghai. New Oriental is one of the biggest and leading education organization I oversaw over 100 students and offered them mock tests, leading to an average of 10% increase of their test scores. Teaching is fun and yet making friends with my students are even funner. 
+
+
 ### Header 3
 
 ```js
