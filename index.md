@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # BIOGRAPHY
 
 I am a Post-Bacc student from University of Maryland(**A Terp** that's what we called!). I double majored in Astronomy and Physics and graduated from the University of Maryland in December 2020 with High Honor in Astronomy. My ultimate research goal is to utilize the combination of Robotics, Computer Vision, and Machine Learning to enhance human life quality. I am currently advised by Professor [Zhaoyang Wang](http://engineering.catholic.edu/research-and-faculty/faculty-profiles/mechanical/wang-zhaoyang/index.html) in the field of Computer Vision and Machine Learning. I am looking for opportunities to pursue computer science in a graduate degree.  
@@ -20,9 +16,8 @@ I was involved in
 
 ## SAT Math Teacher   -- Shanghai, China
 * * *
+<img align="left" width="400" img src="/IMG_1433.JPG" >
 I was a SAT Math Teacher at New Oriental in Shanghai. New Oriental is one of the biggest and leading education organization in China. I oversaw over 100 students and offered them mock tests, leading to an average of 10% increase of their test scores. Teaching is fun and yet making friends with my students are even funner. 
-
-<img src="/IMG_1433.JPG" width="700">  
 
 ### Header 3
 
