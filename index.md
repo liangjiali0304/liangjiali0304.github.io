@@ -20,18 +20,15 @@ I was involved in
 
 <img align="Right" width="400" img src="/IMG_1433.JPG" >
 <p align="Left">
-<font size="5"> I was a SAT Math Teacher at New Oriental in Shanghai. New Oriental is one of the biggest and leading education organization in China. I oversaw over 100 students and offered them mock tests, leading to an average of 10% increase of their test scores. Teaching is fun and yet making friends with my students are even funner. </font>
+<font size="4"> I was an SAT Math Teacher at New Oriental in Shanghai. New Oriental is one of the biggest and leading education organizations in China. I oversaw over 100 students and offered them mock tests, leading to an average of 10% increase in their test scores. Teaching is fun and yet making friends with my students is even more satisfying. Some of my students went to prominent universities such as Emory University, Ohio State University, University of Toronto and etc. </font>
 <p style="font-family: times, serif; font-size:24pt; font-style:italic">
     Why did we use these specific parameters during the calculation of the fingerprints?
 </p>
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
-## Bike Shop Mechanics   -- College Park, MD
+## Bike Shop Mechanics  -- College Park, MD
 * * *
 I Was
 
