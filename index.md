@@ -6,8 +6,10 @@ layout: home
 title: Homepage
 ---
 ## BIOGRAPHY
+<img align="Left" width="240" img src="/images/bio_photo.png" >{:style="float: left;margin-right: 50px;margin-top: 5px;"}
+I am a Post-Bacc student from University of Maryland(**A Terp** that's what we called!). I double majored in Astronomy and Physics and graduated from the University of Maryland in December 2020 with High Honor in Astronomy.
 
-I am a Post-Bacc student from University of Maryland(**A Terp** that's what we called!). I double majored in Astronomy and Physics and graduated from the University of Maryland in December 2020 with High Honor in Astronomy. My ultimate research goal is to utilize the combination of Robotics, Computer Vision, and Machine Learning to enhance human life quality. I am currently advised by Professor [Zhaoyang Wang](http://engineering.catholic.edu/research-and-faculty/faculty-profiles/mechanical/wang-zhaoyang/index.html) in the field of Computer Vision and Machine Learning. I am looking for opportunities to pursue computer science in a graduate degree.  
+My ultimate research goal is to utilize the combination of Robotics, Computer Vision, and Machine Learning to enhance human life quality. I am currently advised by Professor [Zhaoyang Wang](http://engineering.catholic.edu/research-and-faculty/faculty-profiles/mechanical/wang-zhaoyang/index.html) in the field of Computer Vision and Machine Learning. I am looking for opportunities to pursue computer science in a graduate degree.  
 
 <br/>
 <br/>
