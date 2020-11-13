@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jiali Liang's Homepage
+title: Jiali (Charlie) Liang
 email: jiali7@terpmail.umd.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A Post-Bacc student looking for graduate school opportunities in computer science.
+  A Physics and Astronomy student graduted from UMD looking for graduate school opportunities in computer science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liangjiali0304.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: jiali-liang
