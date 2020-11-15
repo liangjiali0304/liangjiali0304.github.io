@@ -19,7 +19,7 @@ My ultimate research goal is to utilize the combination of Artificial Intelligen
 ---
 <br/>
 <a name="Back2CV"></a>
-## <a href="Research/index.html#CV"> Lab Assistant </a>
+## <a href="research/index.html#CV"> Lab Assistant </a>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px"} &nbsp;&nbsp; Washington D.C., USA
 
 I worked with professor Zhaoyang Wang in his computer vision lab.
@@ -28,7 +28,7 @@ I worked with professor Zhaoyang Wang in his computer vision lab.
 <br/>
 
 <a name="Back2DART"></a>
-## <a href="Research/index.html#DART">  Independent Research - Honor </a>
+## <a href="research/index.html#DART">  Independent Research - Honor </a>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px"} &nbsp;&nbsp; College Park, Maryland, USA
 
 I worked with professor Douglas Hamilton in the Astronomy department of University of Maryland. We worked on NASA DART project, in which we mainly focus on the goal of using simulation to improve people's understanding of asteroid.
@@ -38,7 +38,7 @@ I worked with professor Douglas Hamilton in the Astronomy department of Universi
 
 
 <a name="Back2ASIAA"></a>
-## <a href="Research/index.html#ASIAA"> ASIAA Summer Student Program </a>
+## <a href="research/index.html#ASIAA"> ASIAA Summer Student Program </a>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px"} &nbsp;&nbsp; Taipei, Taiwan
 [<img src="/images/ASIAA_logo2.png" width="300">](https://www.asiaa.sinica.edu.tw/index.php)
 <br/>
