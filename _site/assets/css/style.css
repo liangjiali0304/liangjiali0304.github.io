@@ -114,7 +114,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlighter-rouge .highlight { background: #eeeeff; }
 
 /** Wrapper */
-.wrapper { max-width: calc(1200px - (20px)); margin-right: 4px; margin-left: auto; padding-right: 4px; padding-left: 10px; }
+.wrapper { max-width: calc(1200px - (20px)); margin-right: auto; margin-left: auto; padding-right: 10px; padding-left: 10px; }
 @media screen and (min-width: 1200px) { .wrapper { max-width: calc(1200px - (20px * 2)); padding-right: 20px; padding-left: 20px; } }
 
 /** Clearfix */
