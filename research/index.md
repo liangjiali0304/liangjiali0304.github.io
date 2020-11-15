@@ -17,7 +17,7 @@ title: "Research"
 <a href="/index.html#Back2DART">Back</a>
 <br/>
 
-<a name="DART"></a>
+<a name="ASIAA"></a>
 ## <span style="color:#34bdeb"> ASIAA Summer Student Program</span>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px;""} &nbsp;&nbsp; Shanghai, China
 
