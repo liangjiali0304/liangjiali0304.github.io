@@ -56,7 +56,7 @@ my primary role is to
 <a name="Back2AREA"></a>
 ## <a href="Work Experience/index.html#AREA"> Software Development and Analysis Intern </a>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px;""} &nbsp;&nbsp;  Dunkirk, Maryland, USA
-![space-1.jpg](https://raw.githubusercontent.com/liangjiali0304/Greenlandings/master/Trajectories/Flight%20trend%20in%20the%20US.png)
+![flight_data.jpg](https://raw.githubusercontent.com/liangjiali0304/Greenlandings/master/Trajectories/Flight%20trend%20in%20the%20US.png)
 <br/><br/><br/>
 <span style="font-size:18px;">I am an intern at the Aerospace Engineering and Research Associate (AERA). I develop a tracking tool in Python to monitor the impact of COVID-19 on US flight performance. We publish our analytical data for both Metropolitan Air-Hubs and different commercial airlines on [Greenlandings.org](http://greenlandings.org/).</span>
 
@@ -88,9 +88,9 @@ my primary role is to
 ---
 <br/>
 
-| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) |
+|<a href="Projects/index.html#Vocab"><img align="Left" width="350" img src="/Projects/assets/images/Vocab_App.png" ></a> | <img align="Left" width="350" img src="/images/IMG_1433.JPG" >|
 |:--:||:--:|
-| *GRE Vocab App* | *Chinese Bible Verse Search App* |
+| *GRE Vocab App* |  *Chinese Bible Verse Search* |
 
 
 
