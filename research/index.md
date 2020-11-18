@@ -11,7 +11,7 @@ Under construction. Coming soon...
 <br/><br/><br/><br/>
 
 <a name="DART"></a>
-## <span style="color:#34bdeb"> Independent Research - Honor</span>
+## <span style="color:#34bdeb"> Senior Thesis Research - Honor</span>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px;""} &nbsp;&nbsp; College Park, Maryland, USA
 
 ### [Double Asteroid Redirection Test (DART) Mission](https://www.nasa.gov/planetarydefense/dart)
@@ -27,7 +27,7 @@ kinetic impactor technique. (In an easy manner: Scientists use rockets to hit an
 - Ground-based telescopes will measure the change in momentum imparted to Didymos B
 
 [**Here is a simulated movie in action**](https://www.youtube.com/watch?v=8zooPRmgUPI)
-<br/><br/><br/><br/>
+<br/><br/>
 ### My research
 
 |<img src="assets/images/DART5.png"> | <img src="assets/images/DART6.png"> |

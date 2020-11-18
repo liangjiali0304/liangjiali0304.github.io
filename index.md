@@ -5,17 +5,20 @@
 layout: home
 title: Jiali (Charlie) Liang
 ---
+### Pronunciation&nbsp;:&nbsp; Ge-Ah &nbsp;&nbsp;&nbsp;&nbsp;  Lee  &nbsp;&nbsp; &nbsp;&nbsp; Le-on&nbsp;&nbsp; <audio src="assets/audio/Pronunciation.mp3" controls style="max-width: 300px; max-height: 20px">Listen to the pronounciation</audio>
+
 <br/>
 # <span style="color:#5a03fc">BIOGRAPHY</span>
 ---
 <br/>
-<img align="Left" width="270" img src="/images/bio_photo.png" >{:style="float: left;margin-right: 80px;margin-top: 35px;; margin-bottom: 10px"}<br/>
-I was an undergraduate student from University of Maryland  <img src="/images/terp.png" width="60"> (**Go Terps!**). I double majored in Astronomy and Physics and graduated in December 2020 with High Honor in Astronomy.
+<img align="Left" width="270" img src="/images/bio_photo.png" >{:style="float: left;margin-right: 50px;margin-top: 75px;; margin-bottom: 50px"}<br/>
+I was an undergraduate student from University of Maryland  <img src="/images/terp.png" width="60"> (**Go Terps!**). I double majored in Astronomy and Physics and graduated in December 2020 with High Honor in Astronomy. My senior undergraduate thesis, advised by Prof. Douglas Hamilton, was titled <a href="research/index.html#DART">"Toward developing a new algorithm for fast integrations of particles in complex gravity fields"</a>.
+
 
 My ultimate research goal is to utilize the combination of Artificial Intelligence, Robotics, Computer Vision, and Machine Learning to enhance human life quality. I am currently advised by Professor [Zhaoyang Wang](http://engineering.catholic.edu/research-and-faculty/faculty-profiles/mechanical/wang-zhaoyang/index.html) in the field of Computer Vision and Machine Learning. I am looking for opportunities to pursue computer science in a graduate degree.  
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
-# <span style="color:#5a03fc"> Research Highlight</span>
+# <span style="color:#5a03fc"> Research Highlights</span>
 ---
 <br/>
 <a name="Back2CV"></a>
@@ -29,26 +32,24 @@ My ultimate research goal is to utilize the combination of Artificial Intelligen
 
 
 <a name="Back2DART"></a>
-## <a href="research/index.html#DART">  Independent Research - Honor </a>
+## <a href="research/index.html#DART">  Senior Thesis Research - Honor </a>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px"} &nbsp;&nbsp; College Park, Maryland, USA
 <img src="/research/assets/images/DART.png" >
 
-<span style="font-size:18px;">I worked with professor Douglas Hamilton in the Astronomy department of University of Maryland. We worked on NASA DART project, in which we mainly focus on the goal of using simulation to improve people's understanding of asteroid, especially in its gravity field. We use "100 x 100 x 100" cubes to convert a phase data to a 3D shape consists of cubes.</span>
+<span style="font-size:18px;">I worked with professor Douglas Hamilton in the Astronomy department of University of Maryland. We worked on NASA DART project, in which we mainly focus on the goal of using simulation to improve people's understanding of asteroid, especially in its gravity field. We use "100 x 100 x 100" cubes to convert a phase data (surface connected by triangles) (Left) to a 3D shape consists of cubes (Right). </span>
 <br/><br/>
 
 <a name="Back2ASIAA"></a>
 ## <a href="research/index.html#ASIAA"> ASIAA Summer Student Program </a>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px"} &nbsp;&nbsp; Taipei, Taiwan
-[<img src="/images/ASIAA_logo2.png" width="300">](https://www.asiaa.sinica.edu.tw/index.php)
 <br/>
+<img align="center" img src="research/assets/images/ASIAA1.png" >
 
-I participated in the 2019 [Summer Student Program](https://events.asiaa.sinica.edu.tw/ssp/2019/index.php) in ASIAA, one
-
-my primary role is to
+<span style="font-size:18px;">I participated in the 2019 [Summer Student Program](https://events.asiaa.sinica.edu.tw/ssp/2019/index.php) in ASIAA. My primary role is to utilize simulations to support a telescope proposal. In the simulation, we tried to maximize the telescope discovery results in certain areas (KOZAI regions) because of the actual limited telescope observing time. The summer student program at ASIAA was very interesting because it consisted students from all over the world: Taiwan, Mainland China, Hong Kong, Macau, Malaysia, India, Spain, USA, and Japan.</span>
 
 
-<br/><br/><br/><br/><br/><br/>
-# <span style="color:#5a03fc"> Work Experience Highlight</span>
+<br/><br/><br/><br/>
+# <span style="color:#5a03fc"> Work Experience Highlights</span>
 ---
 <br/>
 <a name="Back2AREA"></a>
@@ -63,17 +64,19 @@ my primary role is to
 ## <a href="Work Experience/index.html#SAT"> SAT Math Teacher </a>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px;""} &nbsp;&nbsp; Shanghai, China
 
-<img align="Left" width="350" img src="/images/IMG_1433.JPG" >{:style="float: left;margin-right: 40px;margin-top: 5px;margin-bottom: 10px"}
+<img align="Left" width="350" img src="/images/IMG_1433.JPG" >{:style="float: left;margin-right: 30px;margin-top: 5px;margin-bottom: 10px"}
+<br/>
 <span style="font-size:18px;">I was an SAT Math Teacher at [New Oriental](https://en.wikipedia.org/wiki/New_Oriental) in Shanghai. I oversaw over 100 students and offered them mock tests, leading to an average of 10% increase in their test scores. Some of my students went to prominent universities such as Emory University, Ohio State University, University of Connecticut, University of Toronto and etc.</span>
+<br/><br/>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
-# <span style="color:#5a03fc"> Publication </span>
+# <span style="color:#5a03fc"> Publications </span>
 ---
 <br/>
 <span style="font-size:18px;">Nguyen, H. Liang, J. Wang, Y. and Wang, Z. “Accuracy Assessment of Fringe Projection Profilometry and Digital Image Correlation Techniques for Three-dimensional Shape Measurements,” accepted by *Journal of Physics: Photonics*. 2020</span>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 # <span style="color:#5a03fc"> Teaching Experience</span>
 ---
@@ -85,19 +88,19 @@ my primary role is to
 | 2018        | Fall          |  Astronomy Tutor|ASTR120 : Introductory Astrophysics - Solar System |
 | 2017        | Fall          |  Physics TA     |PHYS171 : Introductory Physics: Mechanics and Relativity|
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
-# <span style="color:#5a03fc"> Project Highlight</span>
+# <span style="color:#5a03fc"> Project Highlights</span>
 ---
 <br/>
 
-|<a href="Projects/index.html#Vocab"><img align="Left" width="350" img src="/Projects/assets/images/Vocab_App.png" ></a> | <img align="Left" width="350" img src="/images/IMG_1433.JPG" >|
+|<img align="Left" width="350" img src="/Projects/assets/images/Vocab_App.png" > | <img align="Left" width="350" img src="/Projects/assets/images/bibleapp3.png" >|
 |:--:||:--:|
-| *GRE Vocab App* |  *Chinese Bible Verse Search* |
+| <a href="Projects/index.html#Vocab">*GRE Vocab App*</a> |  <a href="Projects/index.html#bibleapp">*Chinese Bible Verse Search* </a>|
 
 
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 # <span style="color:#5a03fc"> Visitors</span>
 ---
 <br/>
