@@ -11,7 +11,7 @@ title: Jiali (Charlie) Liang
 # <span style="color:#5a03fc">BIOGRAPHY</span>
 ---
 <br/>
-<img align="Left" width="270" img src="/images/bio_photo.png" >{:style="float: left;margin-right: 50px;margin-top: 75px;; margin-bottom: 50px"}<br/>
+<img align="Left" width="270" img src="/images/bio_photo.png" >{:style="float: left;margin-right: 55px;margin-top: 75px;; margin-bottom: 50px"}<br/>
 I was an undergraduate student from University of Maryland  <img src="/images/terp.png" width="60"> (**Go Terps!**). I double majored in Astronomy and Physics and graduated in December 2020 with High Honor in Astronomy. My senior undergraduate thesis, advised by Prof. Douglas Hamilton, was titled <a href="research/index.html#DART">"Toward developing a new algorithm for fast integrations of particles in complex gravity fields"</a>.
 
 
@@ -24,7 +24,7 @@ My ultimate research goal is to utilize the combination of Artificial Intelligen
 <a name="Back2CV"></a>
 ## <a href="research/index.html#CV"> Lab Assistant </a>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px"} &nbsp;&nbsp; Washington D.C., USA
-<img align="Left" width="300" img src="/research/assets/images/CV1.png" >{:style="float: left;margin-right: 40px;margin-top: 5px;margin-bottom: 10px"}
+<img align="Left" width="300" img src="/research/assets/images/CV1.png" >{:style="float: left;margin-right: 45px;margin-top: 5px;margin-bottom: 10px"}
 <br/><br/>
 <span style="font-size:18px;">I worked with professor Zhaoyang Wang in his computer vision lab. We aim at using computer vision and machine learning to achieve fast and accurate gathering of depth information. A paper regarding this experiment and technique was accepted by *Journal of Physics: Photonics*.</span>
 
