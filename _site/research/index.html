@@ -138,7 +138,9 @@ mp3_embed();
     <p><a name="CV"></a></p>
 <h2 id="-lab-assistant"><span style="color:#34bdeb"> Lab Assistant</span></h2>
 <h3 id="--washington-dc-usa"><img src="/images/location-pin2.png" width="15" style="margin-bottom: 5px;&quot;" />    Washington D.C., USA</h3>
-<p>Under construction. Coming soon…</p>
+<hr />
+<p><br />
+Under construction. Coming soon…</p>
 
 <p><a href="/index.html#Back2CV">Back</a>
 <br /><br /><br /><br /></p>
@@ -146,24 +148,31 @@ mp3_embed();
 <p><a name="DART"></a></p>
 <h2 id="-senior-thesis-research---honor"><span style="color:#34bdeb"> Senior Thesis Research - Honor</span></h2>
 <h3 id="--college-park-maryland-usa"><img src="/images/location-pin2.png" width="15" style="margin-bottom: 5px;&quot;" />    College Park, Maryland, USA</h3>
-
+<hr />
+<p><br />
+I worked with Professor Douglas Hamilton at the department of Astronomy, University of Maryland. My senior honor thesis research was part of the NASA DART project.
+<br /></p>
 <h3 id="double-asteroid-redirection-test-dart-mission"><a href="https://www.nasa.gov/planetarydefense/dart">Double Asteroid Redirection Test (DART) Mission</a></h3>
-<p><img align="Left" width="400" img="" src="assets/images/DART2.png" style="float: left;margin-right: 30px;margin-top: 5px;margin-bottom: 10px" /><br />
+<p><img align="Left" width="400" img="" src="assets/images/DART2.png" style="float: left;margin-right: 30px;margin-top: 15px;margin-bottom: 10px" /><br />
 Double Asteroid Redirection Test is a planetary defense test and it is the first demonstration to use
-kinetic impactor technique. (In an easy manner: Scientists use rockets to hit and change the orbit of the asteroid so it will not destroy the Earth.) The target asteroids are Didymos and its moon.
+kinetic impactor technique.</p>
+
+<p>(Simplified goal: Scientists use rockets to hit and change the orbit of the asteroid so it will not destroy the Earth.) The target asteroids are Didymos and its moon.
 <br /><br /></p>
 <ul>
-  <li>Didymos A (primary body) is <strong>(780 ± 8) meters</strong></li>
-  <li>Didymos B (moonlet) is about <strong>160-meters</strong> in size</li>
+  <li>Didymos-A (primary body) is <strong>(780 ± 8) meters</strong></li>
+  <li>Didymos-B (moonlet) is about <strong>160-meters</strong> in size</li>
   <li>The distance between the primary body and the moonlet is <strong>1.18km</strong></li>
   <li>DART will be launched using SpaceX rocket in California in <strong>late July 2021</strong></li>
   <li>DART is predicted to impact moonlet in <strong>late September 2022</strong></li>
   <li>Ground-based telescopes will measure the change in momentum imparted to Didymos B</li>
 </ul>
 
-<p><a href="https://www.youtube.com/watch?v=8zooPRmgUPI"><strong>Here is a simulated movie in action</strong></a>
+<p><a href="https://www.youtube.com/watch?v=8zooPRmgUPI"><strong>Here is a simulated impact movie in action</strong></a>
 <br /><br /></p>
 <h3 id="my-research">My research</h3>
+<p>In order to calculate how the collision will affect the asteroid’s orbit, we have to study how the particles on the asteroid would distribute and spread after the collision event. <strong>Our research aimed at converting the surface data (Left) obtained from telescope observations to an actual 3D shape data consists of 10<sup>9</sup> cubes (Right)</strong>.
+From the 3D shape, we could calculate the gravitation field of the asteroid and its moon and then we could study and understand how the particle will spread after the collision.</p>
 
 <table>
   <thead>
@@ -174,11 +183,30 @@ kinetic impactor technique. (In an easy manner: Scientists use rockets to hit an
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><em>Didymos A shape data present in Paraview</em></td>
-      <td style="text-align: center"><em>Didymos A consists of cubes</em></td>
+      <td style="text-align: center"><em>Raw Data: <br />Didymos-A surface from telescope observation</em></td>
+      <td style="text-align: center"><em>After algorithm: <br />Didymos-A 3D shape data consists of cubes</em></td>
     </tr>
   </tbody>
 </table>
+
+<p>My algorithm worked as follows:</p>
+<ol>
+  <li>Create a space with 100 x 100 x 100 cubes</li>
+  <li>Find out the location of the surface in the space</li>
+  <li>Mark space outside as 0 (None), space with borders as 0.5 (Half-filled), and space inside as 1 (Filled)</li>
+  <li>Perform error-checking functions to see
+    <ul>
+      <li>if the input/provided surface data is complete and correct</li>
+      <li>if the constructed surface is complete</li>
+    </ul>
+  </li>
+</ol>
+
+<p>The image on the bottom-right shows a sketch 2D cross-section of the 3D shape.</p>
+
+<ul>
+  <li>1 = inside ;  0.5 = border ;  0 = outside</li>
+</ul>
 
 <table>
   <thead>
@@ -189,28 +217,92 @@ kinetic impactor technique. (In an easy manner: Scientists use rockets to hit an
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><em>Didymos A in another angle</em></td>
-      <td style="text-align: center"><em>2D cross section print of Didymos A</em></td>
+      <td style="text-align: center"><em>Didymos-A at another angle</em></td>
+      <td style="text-align: center"><em>2D cross section print of the 3D shape</em></td>
     </tr>
   </tbody>
 </table>
 
 <p><a href="/index.html#Back2DART">Back</a>
-<br /><br /><br /></p>
-
-<p><br /></p>
+<br /><br /><br /><br /></p>
 
 <p><a name="ASIAA"></a></p>
 <h2 id="-asiaa-summer-student-program"><span style="color:#34bdeb"> ASIAA Summer Student Program</span></h2>
 <h3 id="--taipei-taiwan"><img src="/images/location-pin2.png" width="15" style="margin-bottom: 5px;&quot;" />    Taipei, Taiwan</h3>
-<p>Under construction. Coming soon…</p>
+<hr />
+<p><br /></p>
+<h3 id="trans-neptunian-object-tno">Trans-Neptunian Object (TNO)</h3>
+<p><img src="assets/images/ASIAA3.png" width="350" style="float: left; margin-right: 35px; margin-top: 56px; margin-bottom: 45px" /></p>
+
+<p><strong>Simplified Definition</strong>: Any “rock” within solar system that is further than planet Neptune is called TNO.</p>
+
+<p>Wikipedia: A trans-Neptunian object (TNO), is any minor planet or dwarf planet in the Solar System that orbits the Sun at a greater average distance than Neptune, which has a semi-major axis of 30.1 astronomical units (AU).</p>
+
+<p>Here are some famous TNOs in the image on the left. Most of them are small, distant, and dim so it is hard for us to see and track them even with telescopes. But scientists believe that by studying the distribution of TNOs, we can discover the evolution of the solar system.
+<br /></p>
+
+<h3 id="survey-telescope">Survey Telescope</h3>
+<p>Survey telescope is built for ultra-wide area observations. Compared to normal telescope, it can observe many objects at once by scanning a large area of the sky. From the captured images, researcher can determine the orbits of interesting objects. My research project goal is to use simulation to support a proposal to use Subaru Telescope in Hawaii.<br />
+<br /></p>
+<h3 id="fossil---a-telescope-proposal">FOSSIL - A Telescope Proposal</h3>
+<p><img src="assets/images/ASIAA2.png" width="400" style="float: right ;margin-left: 35px; margin-top: 15px; margin-bottom: 10px" /></p>
+
+<p>“the Formation of the Outer Solar System: an Icy Legacy” <strong>(FOSSIL) is</strong></p>
+
+<ul>
+  <li>An ASIAA proposed survey to use Subaru telescope in Hawaii (image on the right)</li>
+  <li>Study TNOs close to ecliptic plane</li>
+  <li>Study different sub groups of TNO</li>
+</ul>
+
+<p>All TNOs discovered will be carefully tracked to reliably classify their orbits.
+<br />Total request is <strong>35 nights over 3 years with an average 5 nights per semester</strong>.
+<br /><br />
+<strong>FOSSIL will  …</strong></p>
+
+<ul>
+  <li>Answer fundamental questions about the formation and evolution of the Solar System</li>
+  <li>Leverage Subaru Telescope large field of view (<strong>Very wide image capture</strong>) and sensitivity (<strong>See lots dimmer TNOs</strong>) to survey 176 sq.deg. of nightsky and to mr (Stellar object luminosity magnitude) = 26.1</li>
+</ul>
+
+<p align="center">
+  <img src="assets/images/ASIAA4.png" />
+  Areas of interest in the FOSSIL proposal. My research focus on the KOZAI area
+  <br />
+</p>
+<ul>
+  <li>The graph above is similar to the map of the Earth, where you convert the whole year night sky globe to a 2D rectangular with Right Ascension (Astronomy Longitude) and  Declination (Astronomy Latitude).</li>
+  <li>The Sin/Cos curve is the ecliptic plane (the sun’s orbit in our (night) sky)</li>
+  <li>N = Neptune;    S = Saturn;    J = Jupiter;    U = Uranus</li>
+</ul>
+
+<p><br /></p>
+<h3 id="my-research-1">My research</h3>
+<p>We wanted to maximize the actual telescope discovery results in the KOZAI regions because of the actual limited telescope observing time. Our simulation used TNO distribution models and ran test observations to see the potential number of TNO detections. We use python and fortran to deploy 20 observation areas around the KOZAI region as shown in the figure below.</p>
+
+<p align="center">
+  <img src="assets/images/ASIAA1.png" />
+  1 set of 10 observation areas in our simulation
+  <br />
+</p>
+<p>And the simulation results on 2 sets of area are shown below, where observation region 6_6 and 6_5 are resulting more TNO detections:</p>
+
+<p align="center">
+  <img src="assets/images/ASIAA5.png" />
+  2 sets of total 20 observation areas in our simulation
+  <br />
+</p>
+
+<p>We updated the result in the proposal for Subaru Telescope.</p>
 
 <p><a href="/index.html#Back2ASIAA">Back</a>
-<br /></p>
+<br /><br /><br /><br /></p>
 
 <h2 id="-independent-research---observatory"><span style="color:#34bdeb"> Independent Research - Observatory</span></h2>
 <h3 id="--college-park-maryland-usa-1"><img src="/images/location-pin2.png" width="15" style="margin-bottom: 5px;&quot;" />    College Park, Maryland, USA</h3>
-<p>Under construction. Coming soon…
+<hr />
+<p><br />
+Under construction. Coming soon…
 <br /></p>
 
   </div>

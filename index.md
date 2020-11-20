@@ -5,9 +5,12 @@
 layout: home
 title: Jiali (Charlie) Liang
 ---
-### Pronunciation&nbsp;:&nbsp; Ge-Ah &nbsp;&nbsp;&nbsp;&nbsp;  Lee  &nbsp;&nbsp; &nbsp;&nbsp; Le-on&nbsp;&nbsp; <audio src="assets/audio/Pronunciation.mp3" controls style="max-width: 300px; max-height: 20px">Listen to the pronounciation</audio>
+### Pronunciation&nbsp;:&nbsp; Ge-Ah &nbsp;&nbsp;&nbsp;&nbsp;  Lee  &nbsp;&nbsp; &nbsp;&nbsp; Le-on&nbsp;&nbsp; <audio src="assets/audio/Pronunciation.mp3" controls style="max-width: 300px; max-height: 20px">Listen to the pronounciation</audio> <br/><br/>
 
-<br/>
+If you are super upset because of the COVID-19, you can listen to this upbeat music.
+
+*Audio Credit: Midnight Bounce by Lakey Inspired* &nbsp;&nbsp;&nbsp;<audio src="assets/audio/Lakey-Inspired-Midnight-Bounce.mp3" controls style="max-width: 300px; max-height: 20px">Listen to the upbeat song </audio>
+<br/><br/><br/>
 # <span style="color:#5a03fc">BIOGRAPHY</span>
 ---
 <br/>
@@ -45,7 +48,7 @@ My ultimate research goal is to utilize the combination of Artificial Intelligen
 <br/>
 <img align="center" img src="research/assets/images/ASIAA1.png" >
 
-<span style="font-size:18px;">I participated in the 2019 [Summer Student Program](https://events.asiaa.sinica.edu.tw/ssp/2019/index.php) in ASIAA. My primary role is to utilize simulations to support a telescope proposal. In the simulation, we tried to maximize the telescope discovery results in certain areas (KOZAI regions) because of the actual limited telescope observing time. The summer student program at ASIAA was very interesting because it consisted students from all over the world: Taiwan, Mainland China, Hong Kong, Macau, Malaysia, India, Spain, USA, and Japan.</span>
+<span style="font-size:18px;">I participated in the 2019 [Summer Student Program](https://events.asiaa.sinica.edu.tw/ssp/2019/index.php) in ASIAA. My primary role is to utilize simulations to support a telescope proposal. In the simulation, we tried to maximize the telescope discovery results in certain areas (KOZAI regions) because of the actual limited telescope observing time. The program was very interesting because it consisted students from all over the world: Taiwan, Mainland China, Hong Kong, Macau, Malaysia, India, Spain, USA, and Japan.</span>
 
 
 <br/><br/><br/><br/>
@@ -74,7 +77,9 @@ My ultimate research goal is to utilize the combination of Artificial Intelligen
 # <span style="color:#5a03fc"> Publications </span>
 ---
 <br/>
-<span style="font-size:18px;">Nguyen, H. Liang, J. Wang, Y. and Wang, Z. “Accuracy Assessment of Fringe Projection Profilometry and Digital Image Correlation Techniques for Three-dimensional Shape Measurements,” accepted by *Journal of Physics: Photonics*. 2020</span>
+<span style="font-size:18px;">Nguyen, H. Liang, J. Wang, Y. and Wang, Z. “Accuracy Assessment of Fringe Projection Profilometry and Digital Image Correlation Techniques for Three-dimensional Shape Measurements,” 2020 *Journal of Physics: Photonics*. https://doi.org/10.1088/2515-7647/abcbe4</span>
+
+[View Manuscript Here](https://iopscience.iop.org/article/10.1088/2515-7647/abcbe4)
 
 <br/><br/><br/>
 

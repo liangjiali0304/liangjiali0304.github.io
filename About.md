@@ -14,7 +14,7 @@ Here are some drone footage I shoot over the years:
   <br>
 </p>
 
-<br><br><br>
+<br><br>
 
 <p align="center">
   <img src="/images/崖邊照2.JPG">
