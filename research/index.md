@@ -124,7 +124,14 @@ And the simulation results on 2 sets of area are shown below, where observation 
   <br>
 </p>
 
-We updated the result in the proposal for Subaru Telescope.
+We updated the result in the proposal for Subaru Telescope. We also conducted research on different models of the TNO distribution to validate different theories.
+
+<img src="assets/images/ASIAA_group.jpg" width="350" >{:style="float: left; margin-right: 35px; margin-top: 25px; margin-bottom: 45px"}
+<br/>
+The Summer Student Program gathered students from the whole world: Taiwan, Mainland China, Hong Kong, Macau, Japan, Malaysia, USA, Spain, and India. The staff and supervisors gave us many academic advices and also tips to travel around. Furthermore, there are many international scholars from Japan, Europe, Australia, and the US. I would strongly recommend students trying to apply for this opportunities!
+
+[ASIAA Summer Student Program Page](http://www.asiaa.sinica.edu.tw/outreach/summerstudent.php)
+
 
 <a href="/index.html#Back2ASIAA">Back</a>
 <br/><br/><br/><br/>
