@@ -14,7 +14,7 @@ If you are super upset because of the COVID-19, you can listen to this upbeat mu
 # <span style="color:#5a03fc">BIOGRAPHY</span>
 ---
 <br/>
-<img align="Left" width="270" img src="/images/bio_photo.png" >{:style="float: left;margin-right: 55px;margin-top: 75px;; margin-bottom: 50px"}<br/>
+<img align="Left" width="270" img src="/images/bio_photo.png" >{:style="float: left;margin-right: 57px;margin-top: 75px;; margin-bottom: 50px"}<br/>
 I was an undergraduate student from University of Maryland  <img src="/images/terp.png" width="60"> (**Go Terps!**). I double majored in Astronomy and Physics and graduated in December 2020 with High Honor in Astronomy. My senior undergraduate thesis, advised by Prof. Douglas Hamilton, was titled <a href="research/index.html#DART">"Toward developing a new algorithm for fast integrations of particles in complex gravity fields"</a>.
 
 
