@@ -2,6 +2,7 @@
 layout: page
 title: "Research"
 ---
+<br/>
 <a name="CV"></a>
 ## <span style="color:#34bdeb"> Lab Assistant</span>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px;""} &nbsp;&nbsp; Washington D.C., USA
@@ -126,7 +127,7 @@ And the simulation results on 2 sets of area are shown below, where observation 
 
 We updated the result in the proposal for Subaru Telescope. We also conducted research on different models of the TNO distribution to validate different theories.
 
-<img src="assets/images/ASIAA_group.jpg" width="350" >{:style="float: left; margin-right: 35px; margin-top: 25px; margin-bottom: 45px"}
+<img src="assets/images/ASIAA_group.JPG" width="350" >{:style="float: left; margin-right: 35px; margin-top: 25px; margin-bottom: 45px"}
 <br/>
 The Summer Student Program gathered students from the whole world: Taiwan, Mainland China, Hong Kong, Macau, Japan, Malaysia, USA, Spain, and India. The staff and supervisors gave us many academic advices and also tips to travel around. Furthermore, there are many international scholars from Japan, Europe, Australia, and the US. I would strongly recommend students trying to apply for this opportunities!
 
@@ -137,8 +138,32 @@ The Summer Student Program gathered students from the whole world: Taiwan, Mainl
 <br/><br/><br/><br/>
 
 ## <span style="color:#34bdeb"> Independent Research - Observatory</span>
-### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px;""} &nbsp;&nbsp; College Park, Maryland, USA
+### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px;"} &nbsp;&nbsp; College Park, Maryland, USA
 ---
 <br/>
-Under construction. Coming soon...
-<br/>
+
+### Supernova
+<img src="assets/images/supernova1.png" >
+
+**Simplified Definition**: When massive Star dies, the gravity collapse its core and BOOM!!!
+
+Supernova is the result of a gravitational collapse of a high mass (> 8 solar masses)  stellar core, which releases an enormous amount of energy. The luminosity of the explosion is nearly 10 billion solar luminosity. The supernova will fade over the next few months and the fading rate depends on the type of the supernova. The figure above shows the luminosity change of different types of supernova after the explosion.
+<br/><br/>
+
+### My research
+I conducted telescope observation research with [Elizabeth Warner](https://www.astro.umd.edu/people/warnerem.html), the director of the University of Maryland Observatory. We decided to study Type-Ia supernova because its very bright peak luminosity would be easier to observe through our telescope.
+
+<p align="center">
+  <img src="assets/images/supernova2.png">
+  Detail information on the supernova I observed
+  <br>
+</p>
+
+<br>
+Here are some images taken from the telescope observations, where the cross hair labels the loction of the supernova (Near a bright star). I observed the supernova 8 times (4 success; 2 half success; 2 failed)
+
+|<img align="Left" width="350" img src="assets/images/supernova3.png" > | <img align="Left" width="350" img src="assets/images/supernova_2017glq.png">|
+|:--:||:--:|
+| *14 inch reflector telescope* |  *2017 glq*|
+| <img align="Left" width="350" img src="assets/images/supernova_2017glx_img.png">| <img align="Left" width="350" img src="assets/images/supernova_2017gmr_img.png">|
+|  *2017 glx*|  *2017 gmr*|

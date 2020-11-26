@@ -20,9 +20,23 @@ I am an intern at the Aerospace Engineering and Research Associate (AERA). I dev
 
 We publish our analytical data for both Metropolitan Air-Hubs and different commercial airlines on [Greenlandings.org](http://greenlandings.org/).
 
+Here are some selective images:
+<p align="center">
+  <img src="https://github.com/liangjiali0304/Greenlandings/raw/master/Trajectories/Hub%20Carrier%20Airlines.png">
+  Flight performance for major hub carrier airlines: United Airline, American Airline, and Delta Airline
+  <br>
+</p>
+  <br>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/liangjiali0304/Greenlandings/master/Trajectories/NYC%20Metropolitan.png">
+  Flight data for 4 airports in New York Metropolitan
+  <br>
+</p>
+
+
 <br/>
 <a href="/index.html#Back2AREA">Back</a>
-<br/><br/><br/>
+<br/><br/><br/><br/>
 <a name="SAT"></a>
 ## <span style="color:#34bdeb"> SAT Math Teacher </span>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px;""} &nbsp;&nbsp; Shanghai, China

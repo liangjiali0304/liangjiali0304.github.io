@@ -2,6 +2,7 @@
 layout: page
 title: "Projects"
 ---
+<br/>
 <a name="Vocab"></a>
 ## <span style="color:#34bdeb"> GRE Vocab App</span>
 ---
