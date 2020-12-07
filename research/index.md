@@ -87,7 +87,7 @@ Survey telescope is built for ultra-wide area observations. Compared to normal t
 
 “the Formation of the Outer Solar System: an Icy Legacy” **(FOSSIL) is**
 
-- An ASIAA proposed survey to use Subaru telescope in Hawaii (image on the right)
+- An ASIAA proposed survey to use Subaru telescope in Hawaii (telescope picture on the right)
 - Study TNOs close to ecliptic plane
 - Study different sub groups of TNO
 
@@ -129,7 +129,7 @@ We updated the result in the proposal for Subaru Telescope. We also conducted re
 
 <img src="assets/images/ASIAA_group.JPG" width="350" >{:style="float: left; margin-right: 35px; margin-top: 25px; margin-bottom: 45px"}
 <br/>
-The Summer Student Program gathered students from the whole world: Taiwan, Mainland China, Hong Kong, Macau, Japan, Malaysia, USA, Spain, and India. The staff and supervisors gave us many academic advices and also tips to travel around. Furthermore, there are many international scholars from Japan, Europe, Australia, and the US. I would strongly recommend students trying to apply for this opportunities!
+The Summer Student Program gathered students from the whole world: Taiwan, Mainland China, Hong Kong, Macau, Japan, Malaysia, USA, Spain, and India. The staff and supervisors gave us many academic advices and also tips to travel around. Furthermore, ASIAA has many international scholars from Japan, Europe, Australia, and the US. I would strongly recommend students interested in Astronomy trying to apply for this opportunities!
 
 [ASIAA Summer Student Program Page](http://www.asiaa.sinica.edu.tw/outreach/summerstudent.php)
 
@@ -150,6 +150,7 @@ The Summer Student Program gathered students from the whole world: Taiwan, Mainl
 Supernova is the result of a gravitational collapse of a high mass (> 8 solar masses)  stellar core, which releases an enormous amount of energy. The luminosity of the explosion is nearly 10 billion solar luminosity. The supernova will fade over the next few months and the fading rate depends on the type of the supernova. The figure above shows the luminosity change of different types of supernova after the explosion.
 <br/><br/>
 
+** Fun Fact: ** Astronomy magnitude is reverse. Smaller (more minus) is brighter. Ex. -26.7 is brighter than -19 (Type Ia peak luminosity)  
 ### My research
 I conducted telescope observation research with [Elizabeth Warner](https://www.astro.umd.edu/people/warnerem.html), the director of the University of Maryland Observatory. We decided to study Type-Ia supernova because its very bright peak luminosity would be easier to observe through our telescope.
 
@@ -160,10 +161,18 @@ I conducted telescope observation research with [Elizabeth Warner](https://www.a
 </p>
 
 <br>
-Here are some images taken from the telescope observations, where the cross hair labels the loction of the supernova (Near a bright star). I observed the supernova 8 times (4 success; 2 half success; 2 failed)
+Here are some images taken from the telescope observations, where the cross hair labels the location of the supernova (Near a bright star). I observed the supernova for 8 nights (4 success; 2 half success; 2 failed)
 
-|<img align="Left" width="350" img src="assets/images/supernova3.png" > | <img align="Left" width="350" img src="assets/images/supernova_2017glq.png">|
+|<img src="assets/images/supernova3.png" > | <img src="assets/images/supernova_2017glq_img.png">|
 |:--:||:--:|
 | *14 inch reflector telescope* |  *2017 glq*|
-| <img align="Left" width="350" img src="assets/images/supernova_2017glx_img.png">| <img align="Left" width="350" img src="assets/images/supernova_2017gmr_img.png">|
+| <img src="assets/images/supernova_2017glx_img.png">| <img src="assets/images/supernova_2017gmr_img.png">|
 |  *2017 glx*|  *2017 gmr*|
+
+Each image is a 5-min exposure with clear and sloan r' filter. I took 10 shots = 50 mins per supernova. It was very frustrating that a cloud would block the sight of supernova and I had to retake another 5-min image. I used AstroImageJ (an image process software to process telescope FITS file) to process the image and obtained the following lightcurves.
+
+||<img src="assets/images/supernova_2017glx.png" > |
+|:--:||:--:|
+|  |*2017 glx lightcurve*|
+|<img src="assets/images/supernova_2017glq.png">|<img src="assets/images/supernova_2017gmr.png">|
+| *2017 glq lightcurve*|*2017 gmr lightcurve*|

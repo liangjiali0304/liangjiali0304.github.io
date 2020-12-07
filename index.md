@@ -14,7 +14,7 @@ If you are super upset because of the COVID-19, you can listen to this upbeat mu
 # <span style="color:#5a03fc">BIOGRAPHY</span>
 ---
 <br/>
-<img align="Left" width="270" img src="/images/bio_photo.png" >{:style="float: left;margin-right: 60px; margin-top: 75px;; margin-bottom: 50px"}<br/>
+<img align="Left" width="270" img src="/images/bio_photo.png" >{:style="float: left;margin-right: 50px; margin-top: 85px;; margin-bottom: 70px"}<br/>
 I was an undergraduate student from University of Maryland  <img src="/images/terp.png" width="60"> (**Go Terps!**). I double majored in Astronomy and Physics and graduated in December 2020 with High Honor in Astronomy. My senior undergraduate thesis, advised by Prof. Douglas Hamilton, was titled <a href="research/index.html#DART">"Toward developing a new algorithm for fast integrations of particles in complex gravity fields"</a>.
 
 
@@ -31,7 +31,7 @@ My ultimate research goal is to utilize the combination of Artificial Intelligen
 <br/><br/>
 <span style="font-size:18px;">I worked with professor Zhaoyang Wang in his computer vision lab. We aim at using computer vision and machine learning to achieve fast and accurate gathering of depth information. A paper regarding this experiment and technique was accepted by *Journal of Physics: Photonics*.</span>
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 
 <a name="Back2DART"></a>
