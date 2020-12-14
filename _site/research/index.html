@@ -140,8 +140,41 @@ mp3_embed();
 <h2 id="-lab-assistant"><span style="color:#34bdeb"> Lab Assistant</span></h2>
 <h3 id="--washington-dc-usa"><img src="/images/location-pin2.png" width="15" style="margin-bottom: 5px;&quot;" />    Washington D.C., USA</h3>
 <hr />
-<p><br />
-Under construction. Coming soon…</p>
+<p><br /></p>
+
+<h3 id="computer-vision">Computer Vision</h3>
+<p><strong>Simplified Definition</strong>: How computer sees the world and gather information from the digital images and videos.</p>
+
+<p>Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do.</p>
+
+<h3 id="application-of-computer-vision">Application of Computer Vision</h3>
+<ul>
+  <li>Medical Treatment (See through human body)
+    <ul>
+      <li>Computed tomography (CT)</li>
+      <li>MRI</li>
+    </ul>
+  </li>
+  <li>Unmanned Transportation
+    <ul>
+      <li>Autonomous driving vehicles such as Tesla, Toyota, and Cadillac</li>
+      <li>Mars Rover</li>
+    </ul>
+  </li>
+  <li>Machine Vision
+    <ul>
+      <li>Manufacturing quality control</li>
+      <li>3D scanning</li>
+    </ul>
+  </li>
+  <li>etc.</li>
+</ul>
+
+<p><br /><br /></p>
+<h3 id="research-content">Research Content</h3>
+<p><a href="https://iopscience.iop.org/article/10.1088/2515-7647/abcbe4">View Manuscript Here</a></p>
+
+<p>Under construction. Coming soon…</p>
 
 <p><a href="/index.html#Back2CV">Back</a>
 <br /><br /><br /><br /></p>
@@ -354,30 +387,41 @@ Here are some images taken from the telescope observations, where the cross hair
   </tbody>
 </table>
 
-<p>Each image is a 5-min exposure with clear and sloan r’ filter. I took 10 shots = 50 mins per supernova. It was very frustrating that a cloud would block the sight of supernova and I had to retake another 5-min image. I used AstroImageJ (an image process software to process telescope FITS file) to process the image and obtained the following lightcurves.</p>
+<p>Each image is a 5-min exposure with clear and sloan r’ filter. I took 5 to 10 data points for both clear and Sloan r’ filter (90 mins per supernova). It was very frustrating that a cloud would block the sight of supernova and I had to retake another 5-min image. I used AstroImageJ (an image process software to process the obtained telescope FITS file) to process the image and obtained the following lightcurves.
+<br /></p>
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: center"> </th>
-      <th style="text-align: center"><img src="assets/images/supernova_2017glx.png" /></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"><em>2017 glx lightcurve</em></td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><img src="assets/images/supernova_2017glq.png" /></td>
-      <td style="text-align: center"><img src="assets/images/supernova_2017gmr.png" /></td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><em>2017 glq lightcurve</em></td>
-      <td style="text-align: center"><em>2017 gmr lightcurve</em></td>
-    </tr>
-  </tbody>
-</table>
+<h4 id="-filter-is-a-glass-slice-we-apply-before-the-camera-used-to-capture-the-images-the-filters-block-out-certain-lights-so-we-can-focus-on-light-from-only-certain-bandwidth">* Filter is a glass slice we apply before the camera used to capture the images. The filters block out certain lights so we can focus on light from only certain bandwidth.</h4>
+<ul>
+  <li>Clear filter = no filter</li>
+  <li>Sloan r’ filter = Effective central wavelength 620.4nm, FWHM 124.0nm</li>
+</ul>
+
+<p><br />
+<strong>Here are the results:</strong></p>
+
+<p>From the data, I calculated the mean and the median of all the data points and plotted with the actual data points. I also calculated the error based on the standard deviation divided by the square root of the number of measurements.</p>
+
+<p><img src="assets/images/supernova_2017glx_clear.png" width="450" style="float: left ;margin-right: 35px; margin-top: 15px; margin-bottom: 10px" />
+<br /><br />
+The light curve of the 2017glx in clear filter seems to fit in the typical type Ia supernova’s light curve. As time increases, the apparent brightness will drop accordingly as shown in the image on the first image in this section.</p>
+
+<p><img src="assets/images/supernova_2017glx_sloanr'.png" width="450" style="float: right ;margin-left: 35px; margin-top: 25px; margin-bottom: 10px" />
+<br /><br /><br /><br /><br /><br /><br />
+However, the light curve of 2017glx in Sloan r’ filter had an overall good shape, except for the final points. The reason is unclear.
+<br /><br /><br /><br /><br /><br /></p>
+
+<p><img src="assets/images/supernova_2017gmr.png" width="450" style="float: left ;margin-right: 35px; margin-top: 1px; margin-bottom: 10px" /></p>
+
+<p>Limited by the data points of 2017gmr, I can only have an ambiguous shape of the light curve. On rochesterastronomy.org,</p>
+
+<p>2017gmr was defined as a type II supernova, but it was not specified. Based on the days after discovery and the slope of the light curve, I assumed it is possible to be a type II-P or type II-L.</p>
+
+<p><br /><br />
+For 2017 glq, the observations were not successful. Therefore, I did not obtain data from this supernova.</p>
+
+<p><strong>Summary: The frequency of the observations was not as planned in the proposal due to the conflict telescope schedule with Astronomy class and bad weathers such as cloudy, hazy, dewy, and windy night. To achieve a better, more precise and accurate light curve, more observations are needed.</strong></p>
+
+<p><a href="#CV">Top</a></p>
 
   </div>
 

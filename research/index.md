@@ -8,6 +8,29 @@ title: "Research"
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px;""} &nbsp;&nbsp; Washington D.C., USA
 ---
 <br/>
+
+### Computer Vision
+**Simplified Definition**: How computer sees the world and gather information from the digital images and videos.
+
+Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do.
+
+### Application of Computer Vision
+- Medical Treatment (See through human body)
+  - Computed tomography (CT)
+  - MRI
+- Unmanned Transportation
+  - Autonomous driving vehicles such as Tesla, Toyota, and Cadillac
+  - Mars Rover
+- Machine Vision
+  - Manufacturing quality control
+  - 3D scanning
+- etc.
+
+<br/><br/>
+### Research Content
+[View Manuscript Here](https://iopscience.iop.org/article/10.1088/2515-7647/abcbe4)
+
+
 Under construction. Coming soon...
 
 <a href="/index.html#Back2CV">Back</a>
@@ -169,10 +192,38 @@ Here are some images taken from the telescope observations, where the cross hair
 | <img src="assets/images/supernova_2017glx_img.png">| <img src="assets/images/supernova_2017gmr_img.png">|
 |  *2017 glx*|  *2017 gmr*|
 
-Each image is a 5-min exposure with clear and sloan r' filter. I took 10 shots = 50 mins per supernova. It was very frustrating that a cloud would block the sight of supernova and I had to retake another 5-min image. I used AstroImageJ (an image process software to process telescope FITS file) to process the image and obtained the following lightcurves.
+Each image is a 5-min exposure with clear and sloan r' filter. I took 5 to 10 data points for both clear and Sloan r’ filter (90 mins per supernova). It was very frustrating that a cloud would block the sight of supernova and I had to retake another 5-min image. I used AstroImageJ (an image process software to process the obtained telescope FITS file) to process the image and obtained the following lightcurves.
+<br>
 
-||<img src="assets/images/supernova_2017glx.png" > |
-|:--:||:--:|
-|  |*2017 glx lightcurve*|
-|<img src="assets/images/supernova_2017glq.png">|<img src="assets/images/supernova_2017gmr.png">|
-| *2017 glq lightcurve*|*2017 gmr lightcurve*|
+#### * Filter is a glass slice we apply before the camera used to capture the images. The filters block out certain lights so we can focus on light from only certain bandwidth.
+- Clear filter = no filter
+- Sloan r' filter = Effective central wavelength 620.4nm, FWHM 124.0nm
+
+<br>
+**Here are the results:**
+
+From the data, I calculated the mean and the median of all the data points and plotted with the actual data points. I also calculated the error based on the standard deviation divided by the square root of the number of measurements.
+
+
+
+<img src="assets/images/supernova_2017glx_clear.png" width="450">{:style="float: left ;margin-right: 35px; margin-top: 15px; margin-bottom: 10px"}
+<br><br>
+The light curve of the 2017glx in clear filter seems to fit in the typical type Ia supernova’s light curve. As time increases, the apparent brightness will drop accordingly as shown in the image on the first image in this section.
+
+<img src="assets/images/supernova_2017glx_sloanr'.png" width="450">{:style="float: right ;margin-left: 35px; margin-top: 25px; margin-bottom: 10px"}
+<br><br><br><br><br><br><br>
+However, the light curve of 2017glx in Sloan r’ filter had an overall good shape, except for the final points. The reason is unclear.
+<br><br><br><br><br><br>
+
+<img src="assets/images/supernova_2017gmr.png" width="450">{:style="float: left ;margin-right: 35px; margin-top: 1px; margin-bottom: 10px"}
+
+Limited by the data points of 2017gmr, I can only have an ambiguous shape of the light curve. On rochesterastronomy.org,
+
+2017gmr was defined as a type II supernova, but it was not specified. Based on the days after discovery and the slope of the light curve, I assumed it is possible to be a type II-P or type II-L.
+
+<br><br>
+For 2017 glq, the observations were not successful. Therefore, I did not obtain data from this supernova.
+
+**Summary: The frequency of the observations was not as planned in the proposal due to the conflict telescope schedule with Astronomy class and bad weathers such as cloudy, hazy, dewy, and windy night. To achieve a better, more precise and accurate light curve, more observations are needed.**
+
+[Top](#CV)
