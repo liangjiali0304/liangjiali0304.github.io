@@ -142,12 +142,12 @@ mp3_embed();
 <hr />
 <p><br /></p>
 
-<h3 id="computer-vision">Computer Vision</h3>
-<p><strong>Simplified Definition</strong>: How computer sees the world and gather information from the digital images and videos.</p>
+<h3 id="computer-vision-cv">Computer Vision (CV)</h3>
+<p><strong>Simplified Definition</strong>: How computer sees the world and gather useful information from the digital images and videos.</p>
 
 <p>Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do.</p>
 
-<h3 id="application-of-computer-vision">Application of Computer Vision</h3>
+<h3 id="application-of-cv">Application of CV</h3>
 <ul>
   <li>Medical Treatment (See through human body)
     <ul>
@@ -167,16 +167,61 @@ mp3_embed();
       <li>3D scanning</li>
     </ul>
   </li>
+  <li>Everyday life
+    <ul>
+      <li>Face recognization</li>
+    </ul>
+  </li>
   <li>etc.</li>
 </ul>
 
-<p><br /><br /></p>
+<p><br /></p>
 <h3 id="research-content">Research Content</h3>
-<p><a href="https://iopscience.iop.org/article/10.1088/2515-7647/abcbe4">View Manuscript Here</a></p>
+<p><a href="https://iopscience.iop.org/article/10.1088/2515-7647/abcbe4">View Manuscript Here</a>
+<span style="font-size:18px;color:blue"><strong>Abstract: This experiment investigate</strong><br />
+ <strong>- the accuracy comparison of two prevalent 3D imaging methods: FPP and 3D-DIC.</strong><br />
+ <strong>- how the geometric angles between key hardware components affect the accuracy</strong><br /></span></p>
 
-<p>Under construction. Coming soon…</p>
+<h3 id="fringe-projection-profilometry-fpp">Fringe Projection Profilometry (FPP)</h3>
 
-<p><a href="/index.html#Back2CV">Back</a>
+<h3 id="3d-digital-image-correlation-3d-dic">3D Digital Image Correlation (3D-DIC)</h3>
+<p><img align="Left" width="350" img="" src="assets/images/3D-DIC.png" style="float: left;margin-right: 30px;margin-top: 15px;margin-bottom: 30px" /><br />
+The 3D-DIC technique is a stereo vision method that performs 3D imaging and shape measurements using two images captured by two separate cameras, typically one on the left side and the other on the right side.</p>
+
+<p>The 3D-DIC technique can determine the shape of the object by matching points in a subset of region to the same subset in the other image.(See figures below) The two cameras are on different position, therefore, there is certain transform between two captured images. (You can simulate the same process by covering one eye using one hand and quickly shifts to cover the other one.)</p>
+
+<p><br />
+<img src="assets/images/3D-DIC_Match.png" />
+<br /><br />
+From the camera calibration process, we already know what the angles between cameras, intrinsic and extrinsic parameters are. With the help from the already known parameters, we can match the subsets in two images using computer programs. Then from Math calculation, we can determine the length, width, and height of that region of the object. By iterating through the whole object, we can gather the three dimensional information of the whole object.</p>
+
+<h3 id="camera-calibration">Camera Calibration</h3>
+
+<h3 id="experiment">Experiment</h3>
+<p><strong>1. System Geometry</strong></p>
+
+<p><strong>2. 360-degree 3D image reconstruction</strong></p>
+
+<p align="center">
+  <img src="assets/images/CV1.png" />
+  The first two rows demonstrate representative results acquired by the FPP technique, and the following two rows show representative results obtained by the 3D-DIC technique.
+  <br />
+</p>
+<p><br /></p>
+
+<p><strong>3. System resolution comparison</strong></p>
+
+<p><img src="assets/images/CV2.png" width="450" style="float: left;margin-right: 30px;margin-top: 55px;margin-bottom: 30px" /><br />
+  3D reconstruction results from the FPP and 3D-DIC techniques from two different imaging resolutions.<br /></p>
+<ul>
+  <li>(a) is a grayscale image of the object with a region of interest (ROI) selected.<br /></li>
+  <li>(b)–(c) represent the 3D results from the FPP measurements at initial and higher spatial resolutions, respectively.<br /></li>
+  <li>(d)–(e) demonstrate the 3D results from the 3D-DIC measurements at initial and higher resolutions, respectively.</li>
+</ul>
+
+<p>In this experiment, the field of view is reduced to about half of the previous experiments. In the meantime, everything remained the same. Figure 7 displays the comparison of the acquired 3D reconstruction results with the ones obtained in the previous experiments. It is evident from a visual comparison that higher resolution can substantially improve the performance of both techniques, especially the 3D-DIC one.</p>
+
+<p><a href="/index.html#Back2CV">Back to Main Page</a>
 <br /><br /><br /><br /></p>
 
 <p><a name="DART"></a></p>
@@ -257,7 +302,7 @@ From the 3D shape, we could calculate the gravitation field of the asteroid and 
   </tbody>
 </table>
 
-<p><a href="/index.html#Back2DART">Back</a>
+<p><a href="/index.html#Back2DART">Back to Main Page</a>
 <br /><br /><br /><br /></p>
 
 <p><a name="ASIAA"></a></p>
@@ -335,7 +380,7 @@ The Summer Student Program gathered students from the whole world: Taiwan, Mainl
 
 <p><a href="http://www.asiaa.sinica.edu.tw/outreach/summerstudent.php">ASIAA Summer Student Program Page</a></p>
 
-<p><a href="/index.html#Back2ASIAA">Back</a>
+<p><a href="/index.html#Back2ASIAA">Back to Main Page</a>
 <br /><br /><br /><br /></p>
 
 <h2 id="-independent-research---observatory"><span style="color:#34bdeb"> Independent Research - Observatory</span></h2>

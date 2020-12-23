@@ -28,8 +28,8 @@ My ultimate research goal is to utilize the combination of Artificial Intelligen
 ## <a href="research/index.html#CV"> Lab Assistant </a>
 ### <img src="/images/location-pin2.png" width="15">{:style="margin-bottom: 5px"} &nbsp;&nbsp; Washington D.C., USA
 <img align="Left" width="300" img src="/research/assets/images/CV1.png" >{:style="float: left;margin-right: 45px;margin-top: 5px;margin-bottom: 10px"}
-<br/><br/>
-<span style="font-size:18px;">I worked with professor Zhaoyang Wang in his computer vision lab. We aim at using computer vision and machine learning to achieve fast and accurate gathering of depth information. A paper regarding this experiment and technique was accepted by *Journal of Physics: Photonics*.</span>
+<br/>
+<span style="font-size:18px;">I worked with professor Zhaoyang Wang in his computer vision lab. We aim at using computer vision and machine learning to achieve fast and accurate gathering of depth information. We also discuss two computer vision techniques Fringe Projection Profilometry (FPP) and 3D Digital Image Correlation (3D-DIC). A paper regarding this experiment and techniques was accepted by the *Journal of Physics: Photonics*.</span>
 
 <br/><br/><br/><br/>
 

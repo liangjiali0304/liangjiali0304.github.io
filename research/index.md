@@ -9,12 +9,12 @@ title: "Research"
 ---
 <br/>
 
-### Computer Vision
-**Simplified Definition**: How computer sees the world and gather information from the digital images and videos.
+### Computer Vision (CV)
+**Simplified Definition**: How computer sees the world and gather useful information from the digital images and videos.
 
 Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do.
 
-### Application of Computer Vision
+### Application of CV
 - Medical Treatment (See through human body)
   - Computed tomography (CT)
   - MRI
@@ -24,16 +24,55 @@ Computer vision is an interdisciplinary scientific field that deals with how com
 - Machine Vision
   - Manufacturing quality control
   - 3D scanning
+- Everyday life
+  - Face recognization
 - etc.
 
-<br/><br/>
+<br/>
 ### Research Content
 [View Manuscript Here](https://iopscience.iop.org/article/10.1088/2515-7647/abcbe4)
+<span style="font-size:18px;color:blue">**Abstract: This experiment investigate**<br/>
+ **- the accuracy comparison of two prevalent 3D imaging methods: FPP and 3D-DIC.**<br/>
+ **- how the geometric angles between key hardware components affect the accuracy**<br/></span>
 
+### Fringe Projection Profilometry (FPP)
 
-Under construction. Coming soon...
+### 3D Digital Image Correlation (3D-DIC)
+<img align="Left" width="350" img src="assets/images/3D-DIC.png" >{:style="float: left;margin-right: 30px;margin-top: 15px;margin-bottom: 30px"}<br/>
+The 3D-DIC technique is a stereo vision method that performs 3D imaging and shape measurements using two images captured by two separate cameras, typically one on the left side and the other on the right side.
 
-<a href="/index.html#Back2CV">Back</a>
+The 3D-DIC technique can determine the shape of the object by matching points in a subset of region to the same subset in the other image.(See figures below) The two cameras are on different position, therefore, there is certain transform between two captured images. (You can simulate the same process by covering one eye using one hand and quickly shifts to cover the other one.)
+
+<br/>
+<img src="assets/images/3D-DIC_Match.png" >
+<br/><br/>
+From the camera calibration process, we already know what the angles between cameras, intrinsic and extrinsic parameters are. With the help from the already known parameters, we can match the subsets in two images using computer programs. Then from Math calculation, we can determine the length, width, and height of that region of the object. By iterating through the whole object, we can gather the three dimensional information of the whole object.   
+
+### Camera Calibration
+
+### Experiment
+**1. System Geometry**
+
+**2. 360-degree 3D image reconstruction**
+
+<p align="center">
+  <img src="assets/images/CV1.png">
+  The first two rows demonstrate representative results acquired by the FPP technique, and the following two rows show representative results obtained by the 3D-DIC technique.
+  <br>
+</p>
+<br/>
+
+**3. System resolution comparison**
+
+<img src="assets/images/CV2.png" width="450" >{:style="float: left;margin-right: 30px;margin-top: 55px;margin-bottom: 30px"}<br/>
+  3D reconstruction results from the FPP and 3D-DIC techniques from two different imaging resolutions.<br/>
+  - (a) is a grayscale image of the object with a region of interest (ROI) selected.<br/>
+  - (b)–(c) represent the 3D results from the FPP measurements at initial and higher spatial resolutions, respectively.<br/>
+  - (d)–(e) demonstrate the 3D results from the 3D-DIC measurements at initial and higher resolutions, respectively.
+
+In this experiment, the field of view is reduced to about half of the previous experiments. In the meantime, everything remained the same. Figure 7 displays the comparison of the acquired 3D reconstruction results with the ones obtained in the previous experiments. It is evident from a visual comparison that higher resolution can substantially improve the performance of both techniques, especially the 3D-DIC one.
+
+<a href="/index.html#Back2CV">Back to Main Page</a>
 <br/><br/><br/><br/>
 
 <a name="DART"></a>
@@ -84,7 +123,7 @@ The image on the bottom-right shows a sketch 2D cross-section of the 3D shape.
 |:--:||:--:|
 | *Didymos-A at another angle* |  *2D cross section print of the 3D shape* |
 
-<a href="/index.html#Back2DART">Back</a>
+<a href="/index.html#Back2DART">Back to Main Page</a>
 <br/><br/><br/><br/>
 
 <a name="ASIAA"></a>
@@ -157,7 +196,7 @@ The Summer Student Program gathered students from the whole world: Taiwan, Mainl
 [ASIAA Summer Student Program Page](http://www.asiaa.sinica.edu.tw/outreach/summerstudent.php)
 
 
-<a href="/index.html#Back2ASIAA">Back</a>
+<a href="/index.html#Back2ASIAA">Back to Main Page</a>
 <br/><br/><br/><br/>
 
 ## <span style="color:#34bdeb"> Independent Research - Observatory</span>
